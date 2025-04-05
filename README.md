@@ -26,8 +26,9 @@ pip install opencv-python numpy face_recognition
 -**opencv-python**: For capturing video and working with images.
 -**numpy**: For handling arrays and image data.
 -**face_recognition**: For detecting and recognizing faces.
-## File structure
-![file structure ]("C:\Users\Elbel\Desktop\Screenshot 2025-04-05 215423.png")
+## file structure 
+
+
 
 
 
